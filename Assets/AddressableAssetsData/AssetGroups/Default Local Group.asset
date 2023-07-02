@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 829df381769f7fc4d98bc28b6d12193d
+  m_SerializeEntries:
+  - m_GUID: 769ccbbe4e5e20a4686910a718fdd257
+    m_Address: text_damage_magic
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ccc044a50718d284ab6674dc90a17b14
+    m_Address: Assets/Enemies/Skeleton.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 50b66e6bbc6398a45be723ec8d5703ff
+    m_Address: text_damage_physical
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 3ff68df293da8f546b3461a5fd782bb6, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 57b5ef5ca412b734da34ee07a9cf86ab, type: 2}
+    - {fileID: 11400000, guid: 6be2f32fb1b6d284f9df57c8eed018d2, type: 2}
